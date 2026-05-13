@@ -6,10 +6,10 @@
 
 - **Nama Kelompok:** _isi di sini_
 - **Anggota:**
-  1. _Nama — NIM — varian yang dikerjakan_
-  2. _Nama — NIM — varian yang dikerjakan_
-  3. _Nama — NIM — varian yang dikerjakan_
-  4. _Nama — NIM — varian yang dikerjakan_
+  1. _Nici Andreas — 32230173 — relu_
+  2. _Steven Sebastian — 32230125 — tanh_
+  3. _Christiano Gracia Levi — 32230131 — single layer_
+  4. _Hendy Tandika — 32230129 — sigmoid_
 
 ---
 
