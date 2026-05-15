@@ -58,7 +58,7 @@ Proses kerja kelompok kami dimulai dengan pembagian tugas berdasarkan varian mod
 | Nici Andreas | Eksperimen MLP ReLU & Integrasi | 25% |
 | Steven Sebastian | Eksperimen MLP Tanh & Notebook Perbandingan | 25% |
 | Christiano Gracia Levi | Eksperimen Single Layer & Analisis Teori | 25% |
-| Hendy Tandika | Eksperimen MLP Sigmoid & Dokumentasi | 25% |
+| Hendy Tandika | Eksperimen MLP Sigmoid & Report | 25% |
 
 _Total harus 100%._
 
